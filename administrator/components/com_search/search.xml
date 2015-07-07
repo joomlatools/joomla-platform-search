@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="1.0.0" method="upgrade">
+	<name>com_search</name>
+	<author>Joomlatools</author>
+	<copyright>Copyright (C) 2005 - 2014 Open Source Matters. All rights reserved.</copyright>
+    <copyright>Copyright (C) 2015 Timble CVBA (http://www.timble.net)</copyright>
+    <license>GNU GPLv3 - http://www.gnu.org/licenses/gpl.html</license>
+	<creationDate>August 2011</creationDate>
+    <authorEmail>info@joomlatools.com</authorEmail>
+    <authorUrl>www.joomlatools.com</authorUrl>
+	<version>1.0.0</version>
+	<description>COM_SEARCH_XML_DESCRIPTION</description>
+
+    <files folder="../../../site/components/com_search">
+        <filename>controller.php</filename>
+        <filename>search.php</filename>
+        <filename>router.php</filename>
+        <folder>language</folder>
+        <folder>models</folder>
+        <folder>views</folder>
+    </files>
+
+    <administration>
+
+		<files folder="./../../administrator/components/com_search">
+			<folder>helpers</folder>
+		</files>
+
+    </administration>
+</extension>
