@@ -23,6 +23,8 @@
 
     <administration>
 
+        <menu hidden="true" />
+
 		<files folder="./../../administrator/components/com_search">
 			<folder>helpers</folder>
 		</files>
