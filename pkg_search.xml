@@ -16,6 +16,6 @@
     <files>
         <file type="component" id="com_search">administrator/components</file>
         <file type="module" id="mod_search" client="site">site/modules</file>
-        <file type="plugin" id="highlight" group="highlight">plugins/content/system</file>
+        <file type="plugin" id="highlight" group="highlight">plugins/system</file>
     </files>
 </extension>
