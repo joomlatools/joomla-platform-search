@@ -3,7 +3,9 @@
 ## What is Joomla Search?
 
 Joomla Search, or basic search, is a simple search extension for the [Joomlatools Platform] supporting
-full text search and including support for the [opensearch][opensearch] standard.
+full text search and including support for the [opensearch] standard.
+
+> Forked from [Joomla CMS v3.3.6](https://github.com/joomla/joomla-cms/releases/tag/3.3.6)
 
 ## Requirements
 
