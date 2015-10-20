@@ -1,5 +1,9 @@
 # Joomla Search Extension
 
+# DEPRECATED
+
+*Note*: this repository is no longer in use. Please use [joomlatools/joomla-platform-finder](https://github.com/joomlatools/joomla-platform-finder) instead.
+
 ## What is Joomla Search?
 
 Joomla Search, or basic search, is a simple search extension for the [Joomlatools Platform] supporting
