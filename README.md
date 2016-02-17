@@ -40,8 +40,8 @@ Keep track of development and community news.
 
 * Follow [@joomlatoolsdev on Twitter](https://twitter.com/joomlatoolsdev)
 * Join [joomlatools/dev on Gitter](http://gitter.im/joomlatools/dev)
-* Read the [Joomlatools Developer Blog](http://developer.joomlatools.com/blog/)
-* Subscribe to the [Joomlatools Developer Newsletter](http://developer.joomlatools.com/newsletter)
+* Read the [Joomlatools Developer Blog](https://developer.joomlatools.com/blog/)
+* Subscribe to the [Joomlatools Developer Newsletter](https://developer.joomlatools.com/newsletter)
 
 [opensearch]: http://www.opensearch.org/
-[Joomlatools Platform]: https://developer.joomlatools.com/platform
+[Joomlatools Platform]: https://www.joomlatools.com/developer/platform/
